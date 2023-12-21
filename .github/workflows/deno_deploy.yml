@@ -53,5 +53,5 @@ jobs:
         with:
           project: "leptos-deno-deploy"
           # entrypoint: "index.js" # 📝 Update the entrypoint if necessary
-          entrypoint: "../run.ts"
+          entrypoint: "run.ts"
           root: "." # 📝 Update the root if necessary
