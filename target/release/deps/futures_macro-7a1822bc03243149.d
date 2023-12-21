@@ -1,9 +1,0 @@
-/home/danamantei/dev/projects/leptos-contrib/ssr_templates/hackernews_js_fetch/target/release/deps/libfutures_macro-7a1822bc03243149.so: /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/lib.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/executor.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/join.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/select.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/stream_select.rs
-
-/home/danamantei/dev/projects/leptos-contrib/ssr_templates/hackernews_js_fetch/target/release/deps/futures_macro-7a1822bc03243149.d: /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/lib.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/executor.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/join.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/select.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/stream_select.rs
-
-/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/lib.rs:
-/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/executor.rs:
-/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/join.rs:
-/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/select.rs:
-/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.29/src/stream_select.rs:
