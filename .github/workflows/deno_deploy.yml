@@ -28,6 +28,10 @@ jobs:
       #   with:
       #     node-version: lts/*
 
+      - name: Install Wasm-Pack
+        run: curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
+
+
       - name: Build step
         # run: "npm install && npm run build" # 📝 Update the build command(s) if necessary
         run: deno task build
