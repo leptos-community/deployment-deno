@@ -1,0 +1,1 @@
+fn(axum::extract::path::Path<std::string::String>, http::header::map::HeaderMap, axum::extract::raw_query::RawQuery, http::request::Request<axum_core::body::Body>) -> impl Future<Output = impl axum_core::response::into_response::IntoResponse> {handle_server_fns}

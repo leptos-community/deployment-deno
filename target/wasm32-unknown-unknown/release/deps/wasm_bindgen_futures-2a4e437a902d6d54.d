@@ -1,0 +1,9 @@
+/home/danamantei/dev/projects/leptos-contrib/ssr_templates/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-2a4e437a902d6d54.rmeta: /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/home/danamantei/dev/projects/leptos-contrib/ssr_templates/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-2a4e437a902d6d54.rlib: /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/home/danamantei/dev/projects/leptos-contrib/ssr_templates/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-2a4e437a902d6d54.d: /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs:
+/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs:
+/home/danamantei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs:

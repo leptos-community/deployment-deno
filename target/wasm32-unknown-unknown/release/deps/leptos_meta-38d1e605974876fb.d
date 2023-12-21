@@ -1,0 +1,15 @@
+/home/danamantei/dev/projects/leptos-contrib/leptos/examples/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/libleptos_meta-38d1e605974876fb.rmeta: /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/lib.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/body.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/html.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/link.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/meta_tags.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/script.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/style.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/stylesheet.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/title.rs
+
+/home/danamantei/dev/projects/leptos-contrib/leptos/examples/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/libleptos_meta-38d1e605974876fb.rlib: /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/lib.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/body.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/html.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/link.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/meta_tags.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/script.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/style.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/stylesheet.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/title.rs
+
+/home/danamantei/dev/projects/leptos-contrib/leptos/examples/hackernews_js_fetch/target/wasm32-unknown-unknown/release/deps/leptos_meta-38d1e605974876fb.d: /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/lib.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/body.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/html.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/link.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/meta_tags.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/script.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/style.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/stylesheet.rs /home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/title.rs
+
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/lib.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/body.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/html.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/link.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/meta_tags.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/script.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/style.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/stylesheet.rs:
+/home/danamantei/dev/projects/leptos-contrib/leptos/meta/src/title.rs:
