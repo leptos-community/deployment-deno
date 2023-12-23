@@ -49,6 +49,5 @@ jobs:
         with:
           # This is the project name (url) in Deno Deploy
           project: "leptos-deno-deploy"
-          # entrypoint: "index.js" # 📝 Update the entrypoint if necessary
           entrypoint: "run.ts"
           root: "." # 📝 Update the root if necessary
