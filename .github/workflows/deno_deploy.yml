@@ -46,7 +46,9 @@ jobs:
 
       - name: Build step
         # run: "npm install && npm run build" # 📝 Update the build command(s) if necessary
-        run: deno task build
+        run: |
+          deno task build
+          rm -r target/
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
