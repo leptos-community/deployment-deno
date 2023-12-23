@@ -57,6 +57,5 @@ jobs:
         run: |
           echo "Deployed at: " >> $GITHUB_STEP_SUMMARY
           echo ${{ steps.deployment.outputs.url }} >> $GITHUB_STEP_SUMMARY
-          Object.entries(${{ steps.deployment.outputs }}) >> $GITHUB_STEP_SUMMARY
-          # | tail -n 3
+          echo ${{ steps.deployment.outputs.project }}) >> $GITHUB_STEP_SUMMARY
           echo $GITHUB_STEP_SUMMARY
