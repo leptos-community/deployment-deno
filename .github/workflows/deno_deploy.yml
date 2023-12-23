@@ -57,5 +57,5 @@ jobs:
         run: |
           echo "Deployed at: " >> $GITHUB_STEP_SUMMARY
           echo ${{ steps.deployment.outputs.url }} >> $GITHUB_STEP_SUMMARY
-          echo ${{ steps.deployment.outputs.url }} | tail -n 2 >> $GITHUB_STEP_SUMMARY
+          echo ${{ steps.deployment.outputs }} | tail -n 3 >> $GITHUB_STEP_SUMMARY
           echo $GITHUB_STEP_SUMMARY
