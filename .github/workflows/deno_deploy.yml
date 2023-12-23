@@ -45,9 +45,15 @@ jobs:
           rm -r target/
 
       - name: Upload to Deno Deploy
+        id: deployment
         uses: denoland/deployctl@v1
         with:
-          # This is the project name (url) in Deno Deploy
+          # This is the project name (first part of url) in Deno Deploy
           project: "leptos-deno-deploy"
           entrypoint: "run.ts"
           root: "." # 📝 Update the root if necessary
+
+      - name: Show deployment url
+        run: |
+          echo "Deployed at: "
+          echo ${{ steps.deployment.outputs.url }}
