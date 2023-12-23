@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy Leptos to Deno Deploy
 on:
   push:
     branches: main
@@ -23,11 +23,6 @@ jobs:
         with:
           deno-version: v1.x
 
-      # - name: Install Node.js
-      #   uses: actions/setup-node@v3
-      #   with:
-      #     node-version: lts/*
-
       # Install Rust Nightly Toolchain, with Clippy & Rustfmt
       - name: Install nightly Rust
         uses: dtolnay/rust-toolchain@nightly
@@ -43,16 +38,16 @@ jobs:
       - name: Install Wasm-Pack
         run: curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
 
-
       - name: Build step
-        # run: "npm install && npm run build" # 📝 Update the build command(s) if necessary
         run: |
           deno task build
+          # must manually remove the target directory, so it doesn't get uploaded to deno deploy
           rm -r target/
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
+          # This is the project name (url) in Deno Deploy
           project: "leptos-deno-deploy"
           # entrypoint: "index.js" # 📝 Update the entrypoint if necessary
           entrypoint: "run.ts"
